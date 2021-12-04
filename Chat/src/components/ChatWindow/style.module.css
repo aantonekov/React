@@ -1,0 +1,41 @@
+.container{
+  background-color:rgb(48, 46, 46); 
+  width: 1290px;
+}
+.chatWindow {
+  -webkit-box-shadow: 0px 2px 35px 11px rgba(34, 60, 80, 0.2);
+  -moz-box-shadow: 0px 2px 35px 11px rgba(34, 60, 80, 0.2);
+  box-shadow: 0px 2px 35px 11px rgba(34, 60, 80, 0.2);
+  background-color: honeydew;
+  height: 500px;
+  width: 1270px;
+  border-radius: 15px;
+  margin: 10px auto;
+}
+.windowItem{
+  width: 900px;
+  height: 500px;
+  /* border: 1px solid rgb(7, 105, 252);  */
+  margin: 0 auto;
+  overflow-x:hidden;
+}
+::-webkit-scrollbar { 
+  width: 5px; 
+  height: 10px; 
+  /* background-color:  rgb(7, 105, 252);   */
+  background-color:  #fff;  
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgb(7, 105, 252);
+  border-radius: 9em;
+  box-shadow: inset 1px 1px 10px #f3faf7;
+}
+/* ::-webkit-scrollbar-track {  
+  background-color: #fff; 
+  width: 5px; 
+  height: 2px; 
+} */
+
+h1{
+  color: rgb(0, 0, 0);
+}

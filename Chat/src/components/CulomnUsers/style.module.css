@@ -1,0 +1,23 @@
+.container{
+    width: 250px;
+    height: 725px;
+    background-color:rgb(48, 46, 46);
+    padding-top: 5px;
+}
+p{
+    color: #fff;
+    font-size: 40px;
+    margin: 0 29px;
+}
+.userContainer{
+    width: 235px;
+    height: 420px;
+    background-color: rgb(7, 105, 252);
+    border-radius: 15px;
+    margin: 31px auto;
+    padding-top: 10px;
+}
+h1{
+    color: #fff;
+    margin: 0 33px;
+}

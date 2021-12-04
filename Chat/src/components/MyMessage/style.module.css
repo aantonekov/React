@@ -1,0 +1,46 @@
+.messageContainer{
+    width: 250px;
+    height: auto;
+    display: flex;
+    margin: 30px 0px 30px 580px;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.container{
+    border: 1px solid rgb(7, 105, 252);
+    border-radius: 15px;
+}
+.userMessInf{
+    width: 240px;
+    display: flex;
+    align-items: center;
+    
+}
+.divUserImg{
+    width: 30px;
+    height: 30px;
+    border: 1px solid rgb(7, 105, 252);
+    border-radius: 50%;
+    margin: 3px 0px 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.userImg{
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.userName{
+    color: #333;
+    margin: 5px 10px 0px 10px;
+}
+.userMessage{
+    
+}
+.usertext{
+    color: #333;
+    font-size: 14px;
+    margin: 10px;
+}
