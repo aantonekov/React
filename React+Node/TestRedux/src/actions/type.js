@@ -1,0 +1,3 @@
+export const FILM_LOAD_IN_PROGRESS = 'FILM_LOAD_IN_PROGRESS';
+export const FILM_LOAD_FAIL = 'FILM_LOAD_FAIL';
+export const FILM_ADD = 'FILM_ADD';
